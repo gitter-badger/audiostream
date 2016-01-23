@@ -1,6 +1,10 @@
 Audiostream
 ===========
 
+.. image:: https://badges.gitter.im/aspidites/audiostream.svg
+   :alt: Join the chat at https://gitter.im/aspidites/audiostream
+   :target: https://gitter.im/aspidites/audiostream?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 Audiostream is a python extension that gives you a direct access to the speaker
 or microphone.
 
